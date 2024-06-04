@@ -1,8 +1,8 @@
 #pragma once
 
 #include <cuda_runtime.h>
-#include "cd/csproject/yike/intern/ronak/ParallelQuickjoin/cuda-samples/Common/helper_cuda.h"
-#include "cd/csproject/yike/intern/ronak/ParallelQuickjoin/cuda-samples/Common/helper_functions.h"
+#include "/csproject/yike/intern/ronak/ParallelQuickjoin/cuda-samples/Common/helper_cuda.h"
+#include "/csproject/yike/intern/ronak/ParallelQuickjoin/cuda-samples/Common/helper_functions.h"
 #include "Object.h"
 #include "Stack.h"
 
